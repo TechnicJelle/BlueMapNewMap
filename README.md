@@ -1,6 +1,6 @@
 # BlueMap New Map
 
-[![GitHub Total Downloads](https://img.shields.io/github/downloads/TechnicJelle/BlueMapNewMap/total?label=Downloads&color=success "Click here to download the plugin")](https://github.com/TechnicJelle/BlueMapNewMap/releases/latest)
+[![GitHub Total Downloads](https://img.shields.io/github/downloads/TechnicJelle/BlueMapNewMap/total?label=Downloads&color=success "Click here to download the plugin")](../../releases/latest)
 [![Servers using this plugin](https://img.shields.io/bstats/servers/23860?label=Servers)](https://bstats.org/plugin/bukkit/BlueMap%20New%20Map/23860)
 
 This is a tiny addon for BlueMap, with which you can more easily create new maps.
