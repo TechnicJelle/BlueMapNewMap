@@ -1,0 +1,20 @@
+name: BlueMapNewMap
+version: '${project.version}'
+main: com.technicjelle.BlueMapNewMap.BlueMapNewMap
+api-version: '1.13'
+depend:
+  - BlueMap
+authors:
+  - TechnicJelle
+url: '${project.url}'
+description: '${project.description}'
+
+commands:
+  bm-newmap:
+    usage: /<command> <world> <map-name>
+    description: Create a new map
+    permission: bm-newmap
+
+permissions:
+  bm-newmap:
+    default: op
