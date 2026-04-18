@@ -14,7 +14,7 @@
 	<description>A command to easily add new BlueMap Maps</description>
 
 	<properties>
-		<java.version>21</java.version>
+		<java.version>25</java.version>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	</properties>
 
@@ -105,7 +105,7 @@
 		<dependency>
 			<groupId>de.bluecolored</groupId>
 			<artifactId>bluemap-common</artifactId>
-			<version>5.4</version>
+			<version>5.20</version>
 			<scope>provided</scope>
 		</dependency>
 		<dependency>
